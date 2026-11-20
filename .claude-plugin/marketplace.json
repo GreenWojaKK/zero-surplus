@@ -1,0 +1,14 @@
+{
+  "name": "zero-surplus",
+  "description": "Windows storage diagnosis CLI and skill for Claude Code and Codex.",
+  "owner": {
+    "name": "GreenWojaKK"
+  },
+  "plugins": [
+    {
+      "name": "zero-surplus",
+      "source": "./",
+      "description": "Windows storage diagnosis for agents: folder sizes, size changes, program usage records and Python environment references."
+    }
+  ]
+}

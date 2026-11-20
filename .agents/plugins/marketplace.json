@@ -1,0 +1,20 @@
+{
+  "name": "zero-surplus",
+  "interface": {
+    "displayName": "zero-surplus"
+  },
+  "plugins": [
+    {
+      "name": "zero-surplus",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "zero-surplus",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Windows storage diagnosis for agents: folder sizes, size changes, program usage records (Prefetch, SRUM, UserAssist) and Python environment references in one fast CLI."
+}

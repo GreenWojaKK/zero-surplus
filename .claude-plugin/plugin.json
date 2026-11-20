@@ -1,0 +1,12 @@
+{
+  "name": "zero-surplus",
+  "version": "0.1.0",
+  "description": "Windows storage diagnosis for agents: folder sizes, size changes, program usage records (Prefetch, SRUM, UserAssist) and Python environment references in one fast CLI.",
+  "author": {
+    "name": "GreenWojaKK"
+  },
+  "homepage": "https://github.com/GreenWojaKK/zero-surplus",
+  "repository": "https://github.com/GreenWojaKK/zero-surplus",
+  "license": "MIT",
+  "keywords": ["windows", "disk", "storage", "cleanup", "prefetch", "srum"]
+}
